@@ -1,0 +1,17 @@
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\RiktamAssignmentTests.deps.json
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\RiktamAssignmentTests.runtimeconfig.json
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\RiktamAssignmentTests.runtimeconfig.dev.json
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\RiktamAssignmentTests.dll
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\RiktamAssignment.dll
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\RiktamAssignment.pdb
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\obj\Debug\netcoreapp2.2\RiktamAssignmentTests.csprojAssemblyReference.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\obj\Debug\netcoreapp2.2\RiktamAssignmentTests.csproj.CoreCompileInputs.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\obj\Debug\netcoreapp2.2\RiktamAssignmentTests.AssemblyInfoInputs.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\obj\Debug\netcoreapp2.2\RiktamAssignmentTests.AssemblyInfo.cs
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\obj\Debug\netcoreapp2.2\RiktamAssignmentTests.csproj.CopyComplete
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\bin\Debug\netcoreapp2.2\RiktamAssignmentTests.pdb
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\obj\Debug\netcoreapp2.2\RiktamAssignmentTests.dll
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignmentTests\obj\Debug\netcoreapp2.2\RiktamAssignmentTests.pdb

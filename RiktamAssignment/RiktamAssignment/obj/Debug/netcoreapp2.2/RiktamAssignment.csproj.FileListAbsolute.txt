@@ -1,0 +1,14 @@
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\bin\Debug\netcoreapp2.2\RiktamAssignment.deps.json
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\bin\Debug\netcoreapp2.2\RiktamAssignment.runtimeconfig.json
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\bin\Debug\netcoreapp2.2\RiktamAssignment.runtimeconfig.dev.json
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\bin\Debug\netcoreapp2.2\RiktamAssignment.dll
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.csprojAssemblyReference.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.csproj.CoreCompileInputs.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.RazorAssemblyInfo.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.RazorAssemblyInfo.cs
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.AssemblyInfoInputs.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.AssemblyInfo.cs
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\bin\Debug\netcoreapp2.2\RiktamAssignment.pdb
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.dll
+C:\Users\QUAZAR\source\repos\RiktamAssignment\RiktamAssignment\obj\Debug\netcoreapp2.2\RiktamAssignment.pdb

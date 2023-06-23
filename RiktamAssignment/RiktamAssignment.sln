@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiktamAssignment", "RiktamAssignment\RiktamAssignment.csproj", "{07055B4F-1B36-4264-914C-856BE989C5FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiktamAssignmentTests", "RiktamAssignmentTests\RiktamAssignmentTests.csproj", "{D46B58DC-0974-4091-8708-5A0819ED7EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07055B4F-1B36-4264-914C-856BE989C5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07055B4F-1B36-4264-914C-856BE989C5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07055B4F-1B36-4264-914C-856BE989C5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07055B4F-1B36-4264-914C-856BE989C5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46B58DC-0974-4091-8708-5A0819ED7EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46B58DC-0974-4091-8708-5A0819ED7EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46B58DC-0974-4091-8708-5A0819ED7EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46B58DC-0974-4091-8708-5A0819ED7EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C2B3E7-813E-4BD9-BD4C-AA2D2C6043FB}
+	EndGlobalSection
+EndGlobal
